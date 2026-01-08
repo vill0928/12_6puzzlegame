@@ -8722,7 +8722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 209.18349, y: 156.55513}
+  scrollPos: {x: 98.4986, y: 212.44554}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 271.25
@@ -8733,10 +8733,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1932823998}
-  selectedCommands:
-  - {fileID: 1932824015}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 1932823887}
   - {fileID: 1932823894}
@@ -18525,7 +18523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 127
   indentLevel: 1
-  storyText: "\u91D1\u5C6C\u7247?\u4E0A\u9762\u6709\u6578\u5B57{wc}\n\u5148\u8A18\u4E0B\u4F86"
+  storyText: "\u91D1\u5C6C\u7247?\u4E0A\u9762\u6709\u6578\u5B571{wc}\n\u5148\u8A18\u4E0B\u4F86"
   description: 
   character: {fileID: 1932824109}
   portrait: {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
@@ -21890,7 +21888,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 224
   indentLevel: 1
-  storyText: "\u639B\u9418\u65C1\u908A\u96B1\u96B1\u6709\u500B\u6578\u5B570"
+  storyText: "\u639B\u9418\u65C1\u908A\u96B1\u96B1\u6709\u500B\u6578\u5B572"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}

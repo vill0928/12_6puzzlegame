@@ -1308,7 +1308,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -89.36364
-    y: -25.363625
+    y: -24.45453
     width: 98.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2356,7 +2356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 88
   indentLevel: 0
-  storyText: "\u9019\u662F\u54EA\u88E1...?{wc}\n\u5636...\u982D\u597D\u75DB......\u6628\u5929\u559D\u592A\u591A{wc}\n"
+  storyText: "\u9019\u662F\u54EA\u88E1...?{wc}\n\u5636...\u982D\u597D\u75DB......\u6628\u5929\u559D\u592A\u591A{wc}\n\u4E0B\u6B21\u9084\u662F\u5C11\u559D\u9EDE"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
