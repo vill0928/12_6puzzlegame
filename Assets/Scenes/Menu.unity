@@ -603,7 +603,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 982745486}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 982745496}
   variables:
   - {fileID: 982745436}
   description: 
@@ -676,7 +677,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: -29.73822
+    x: -25.614494
     y: -4.1638107
     width: 81.656
     height: 40
@@ -809,8 +810,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: -27.338211
-    y: -73.16382
+    x: -25.688736
+    y: -75.63805
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -878,7 +879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 66
   indentLevel: 0
-  storyText: "\u9019?\u9470\u5319\u5B54?{wc}\n\u6211\u624B\u4E0A\u600E\u9EBC\u6709\u9470\u5319?{wc}\n\u6253\u958B\u4F86\u770B\u4E00\u590F"
+  storyText: "\u9019?\u9470\u5319\u5B54?{wc}\n\u6211\u624B\u4E0A\u600E\u9EBC\u6709\u9470\u5319?{wc}\n\u6253\u958B\u4F86\u770B\u4E00\u4E0B"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -893,7 +894,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &982745498
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
