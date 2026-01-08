@@ -751,8 +751,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -887,8 +887,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1592,8 +1592,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1904,8 +1904,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 29, y: -4.3819}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.000060081, y: 0.000020504}
+  m_SizeDelta: {x: 595.9189, y: 111.5695}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &470007735
 MonoBehaviour:
@@ -1954,15 +1954,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 56
+  m_fontSizeBase: 56
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -2043,8 +2043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: 77.99997}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 31.8992, y: 132.3108}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &471992291
 MonoBehaviour:
@@ -2792,8 +2792,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3322,8 +3322,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3501,8 +3501,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106, y: 77.99997}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 297.14844, y: 132.31079}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &939443842
 MonoBehaviour:
@@ -3650,8 +3650,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -119.401, y: -142.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: -236.66797, y: -421.94647}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &952872650
 MonoBehaviour:
@@ -4708,8 +4708,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -119.401, y: -69.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: -236.66797, y: -238.03381}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1162451917
 MonoBehaviour:
@@ -5212,8 +5212,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5607,8 +5607,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -119.401, y: 3.9999657}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: -236.66797, y: -54.121124}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1290203827
 MonoBehaviour:
@@ -6012,8 +6012,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 156.25592, y: -5.940918}
-  m_SizeDelta: {x: -272.6503, y: 11.882}
+  m_AnchoredPosition: {x: 430.38586, y: 5.4594727}
+  m_SizeDelta: {x: -820.9099, y: -10.472}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1348268444
 MonoBehaviour:
@@ -6105,8 +6105,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: 3.9999657}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 31.8992, y: -54.1211}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1414865174
 MonoBehaviour:
@@ -6598,8 +6598,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6749,8 +6749,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: -69.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 31.8992, y: -238.0338}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1649218229
 MonoBehaviour:
@@ -6898,8 +6898,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106, y: 3.9999657}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 297.14844, y: -54.121124}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1655192396
 MonoBehaviour:
@@ -7137,8 +7137,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106, y: -142.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 297.14844, y: -421.94647}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1725493192
 MonoBehaviour:
@@ -7321,8 +7321,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7459,8 +7459,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7548,8 +7548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -119.401, y: 78}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: -236.66797, y: 132.31091}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1742158679
 MonoBehaviour:
@@ -7746,8 +7746,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8035,8 +8035,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8212,8 +8212,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.8026123, y: 151.31987}
-  m_SizeDelta: {x: -130.56, y: -359.3682}
+  m_AnchoredPosition: {x: 33.387207, y: 352.99005}
+  m_SizeDelta: {x: -437.4855, y: -896.8775}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1816054785
 MonoBehaviour:
@@ -8337,8 +8337,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8606,6 +8606,12 @@ GameObject:
   - component: {fileID: 1932824132}
   - component: {fileID: 1932824138}
   - component: {fileID: 1932824139}
+  - component: {fileID: 1932824145}
+  - component: {fileID: 1932824144}
+  - component: {fileID: 1932824143}
+  - component: {fileID: 1932824142}
+  - component: {fileID: 1932824141}
+  - component: {fileID: 1932824140}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -8627,7 +8633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 2
   indentLevel: 0
-  storyText: "\u81E5\u5BA4?{wc}\n\u539F\u4F86\u7684\u4E3B\u4EBA\u5728\u54EA\u88E1?"
+  storyText: "\u4E00\u500B\u623F\u9593?\u9084\u633A\u6EAB\u99A8\u7684{wc}\n\u6211\u600E\u9EBC\u8DD1\u5230\u5225\u4EBA\u5BB6\u4E86?{wc}\n\u9084\u662F\u8D95\u7DCA\u96E2\u958B\u5427\u2026\u8981\u662F\u88AB\u4EBA\u767C\u73FE\u5C31\u7CDF\u4E86{wc}\n\u6B38?\u8EAB\u5F8C\u7684\u9580\u6D88\u5931\u4E86!{wc}\n\u8A72\u6B7B\u2025\u898B\u9B3C\u4E86!\u5F97\u8D95\u7DCA\u96E2\u958B\u9019\u9B3C\u5730\u65B9{wc}\n\u56DB\u8655\u627E\u627E\u96E2\u958B\u7684\u7DDA\u7D22\u5427\n"
   description: 
   character: {fileID: 1932824109}
   portrait: {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
@@ -8716,19 +8722,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -121.657555, y: 258.58762}
+  scrollPos: {x: 209.18349, y: 156.55513}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 271.25
-  zoom: 0.5800003
+  zoom: 0.73000026
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1932823998}
+  selectedCommands:
+  - {fileID: 1932824015}
   variables:
   - {fileID: 1932823887}
   - {fileID: 1932823894}
@@ -8752,6 +8760,8 @@ MonoBehaviour:
   - {fileID: 1932824101}
   - {fileID: 1932824121}
   - {fileID: 1932824128}
+  - {fileID: 1932824144}
+  - {fileID: 1932824141}
   description: 
   stepPause: 0
   colorCommands: 1
@@ -8834,7 +8844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 5
   indentLevel: 0
-  storyText: "\u7DDA\u7D22:\n{$\u6587\u5B57_\u76F8\u7247}\n{$\u6587\u5B57_\u9470\u53191}\n{$\u6587\u5B57_\u6A02\u8B5C}\n{$\u6587\u5B57_\u9470\u53192}\n{$\u6587\u5B57_\u96FB\u6C60}\n{$\u6587\u5B57_\u6536\u97F3\u6A5F}\n{$\u6587\u5B57_\u5E8A}\n{$\u6587\u5B57_\u6578\u5B571}\n"
+  storyText: "\u7DDA\u7D22:\n{$\u6587\u5B57_\u76F8\u7247}\n{$\u6587\u5B57_\u9470\u53191}\n{$\u6587\u5B57_\u6A02\u8B5C}\n{$\u6587\u5B57_\u9470\u53192}\n{$\u6587\u5B57_\u96FB\u6C60}\n{$\u6587\u5B57_\u6536\u97F3\u6A5F}\n{$\u6587\u5B57_\u5E8A}\n{$\u6587\u5B57_\u6578\u5B57}\n{$\u6587\u5B57_\u6578\u5B572}\n{$\u6587\u5B57_\u6578\u5B573}\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -9086,8 +9096,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 283.33057
-    y: -118.382965
+    x: 164.97437
+    y: 119.4252
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -10548,8 +10558,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 285.03128
-    y: -22.634964
+    x: 166.67511
+    y: 215.17314
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -13038,8 +13048,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 280.0302
-    y: -68.61962
+    x: 161.67404
+    y: 169.18852
     width: 86.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -13178,7 +13188,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -57.468636
-    y: -66.94949
+    y: -68.143524
     width: 86.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -15741,9 +15751,10 @@ MonoBehaviour:
   - {fileID: 1932824011}
   - {fileID: 1932824007}
   - {fileID: 1932824012}
+  - {fileID: 1932824015}
   - {fileID: 1932824014}
   - {fileID: 1932824013}
-  - {fileID: 1932824015}
+  - {fileID: 1932824143}
   suppressAllAutoSelections: 0
 --- !u!114 &1932823999
 MonoBehaviour:
@@ -15902,8 +15913,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 428.55994
-    y: -46.22763
+    x: 339.83267
+    y: -76.77306
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -16974,7 +16985,7 @@ MonoBehaviour:
   itemId: 105
   indentLevel: 1
   anyVar:
-    variable: {fileID: 1932823966}
+    variable: {fileID: 1932824144}
     data:
       animatorData:
         animatorRef: {fileID: 0}
@@ -16984,7 +16995,7 @@ MonoBehaviour:
         audioSourceVal: {fileID: 0}
       booleanData:
         booleanRef: {fileID: 0}
-        booleanVal: 0
+        booleanVal: 1
       collectionData:
         collectionRef: {fileID: 0}
         collectionVal: {fileID: 0}
@@ -17076,7 +17087,7 @@ MonoBehaviour:
       characterData:
         characterRef: {fileID: 0}
         characterVal: {fileID: 0}
-  setOperator: 1
+  setOperator: 0
   variable: {fileID: 0}
   booleanData:
     booleanRef: {fileID: 0}
@@ -18607,7 +18618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.StringVariable
   scope: 1
   key: "\u6B63\u78BA\u5BC6\u78BC"
-  value: 1234
+  value: 0112
 --- !u!114 &1932824037
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20058,8 +20069,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 420.24908
-    y: 26.539078
+    x: 331.52182
+    y: -4.0063457
     width: 86.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -20604,8 +20615,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 427.2378
-    y: -108.98258
+    x: 164.53235
+    y: 61.976273
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -20616,6 +20627,9 @@ MonoBehaviour:
   eventHandler: {fileID: 1932824106}
   commandList:
   - {fileID: 1932824105}
+  - {fileID: 1932824145}
+  - {fileID: 1932824142}
+  - {fileID: 1932824140}
   suppressAllAutoSelections: 0
 --- !u!114 &1932824108
 MonoBehaviour:
@@ -20723,8 +20737,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 414.65906
-    y: 131.08151
+    x: 325.9318
+    y: 100.53609
     width: 86.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -20793,8 +20807,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 416.4973
-    y: 82.722946
+    x: 327.77005
+    y: 52.17752
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -20820,7 +20834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 206
   indentLevel: 1
-  storyText: "{wc}\n\u518D\u627E\u627E\u770B\u9084\u6709\u4EC0\u9EBC{wc}\n\u6B38?\u5E8A\u65C1\u908A\u6709\u523B\u4E00\u500B\u6578\u5B57?{wc}\n3?\u770B\u8D77\u4F86\u6709\u4EBA\u523B\u610F\u7559\u4E0B\u4F86{wc}\n\u5148\u8A18\u4E0B\u4F86\u5427\n"
+  storyText: "{wc}\n\u518D\u627E\u627E\u770B\u9084\u6709\u4EC0\u9EBC{wc}\n\u6B38?\u5E8A\u65C1\u908A\u6709\u523B\u4E00\u500B\u6578\u5B57?{wc}\n0?\u770B\u8D77\u4F86\u6709\u4EBA\u523B\u610F\u7559\u4E0B\u4F86{wc}\n\u5148\u8A18\u4E0B\u4F86\u5427\n"
   description: 
   character: {fileID: 1932824109}
   portrait: {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
@@ -20847,7 +20861,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 205
   indentLevel: 1
-  storyText: "\u7121\u610F\u9593\u5C07\u653E\u5927\u93E1\u5C0D\u6E96\u7D19\u689D{wc}\n\u4E0A\u9762\u51FA\u73FE\u4E00\u7D44\u6578\u5B57"
+  storyText: "\u7121\u610F\u9593\u5C07\u653E\u5927\u93E1\u5C0D\u6E96\u7D19\u689D{wc}\n\u4E0A\u9762\u51FA\u73FE\u4E00\u7D44\u6578\u5B57{wc}\n_1_
+    _\u5176\u4ED6\u6578\u5B57\u770B\u4E0D\u6E05\u695A"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21000,7 +21015,7 @@ MonoBehaviour:
         spriteVal: {fileID: 0}
       stringData:
         stringRef: {fileID: 0}
-        stringVal: "\u6578\u5B573"
+        stringVal: "\u6578\u5B570"
       textureData:
         textureRef: {fileID: 0}
         textureVal: {fileID: 0}
@@ -21308,7 +21323,7 @@ MonoBehaviour:
         spriteVal: {fileID: 0}
       stringData:
         stringRef: {fileID: 0}
-        stringVal: "\u6578\u5B57"
+        stringVal: "\u6578\u5B571"
       textureData:
         textureRef: {fileID: 0}
         textureVal: {fileID: 0}
@@ -21542,8 +21557,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 417.47092
-    y: 251.77919
+    x: 328.74365
+    y: 221.23381
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -21612,8 +21627,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: 414.13123
-    y: 190.80954
+    x: 325.40396
+    y: 160.26416
     width: 89.376
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -21679,6 +21694,670 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &1932824140
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.SetVariable
+  itemId: 225
+  indentLevel: 1
+  anyVar:
+    variable: {fileID: 1932824141}
+    data:
+      animatorData:
+        animatorRef: {fileID: 0}
+        animatorVal: {fileID: 0}
+      audioSourceData:
+        audioSourceRef: {fileID: 0}
+        audioSourceVal: {fileID: 0}
+      booleanData:
+        booleanRef: {fileID: 0}
+        booleanVal: 0
+      collectionData:
+        collectionRef: {fileID: 0}
+        collectionVal: {fileID: 0}
+      collider2DData:
+        collider2DRef: {fileID: 0}
+        collider2DVal: {fileID: 0}
+      colliderData:
+        colliderRef: {fileID: 0}
+        colliderVal: {fileID: 0}
+      colorData:
+        colorRef: {fileID: 0}
+        colorVal: {r: 0, g: 0, b: 0, a: 0}
+      floatData:
+        floatRef: {fileID: 0}
+        floatVal: 0
+      gameObjectData:
+        gameObjectRef: {fileID: 0}
+        gameObjectVal: {fileID: 0}
+      integerData:
+        integerRef: {fileID: 0}
+        integerVal: 0
+      materialData:
+        materialRef: {fileID: 0}
+        materialVal: {fileID: 0}
+      matrix4x4Data:
+        matrix4x4Ref: {fileID: 0}
+        matrix4x4Val:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0
+          e23: 0
+          e30: 0
+          e31: 0
+          e32: 0
+          e33: 0
+      objectData:
+        objectRef: {fileID: 0}
+        objectVal: {fileID: 0}
+      quaternionData:
+        quaternionRef: {fileID: 0}
+        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
+      rigidbody2DData:
+        rigidbody2DRef: {fileID: 0}
+        rigidbody2DVal: {fileID: 0}
+      rigidbodyData:
+        rigidbodyRef: {fileID: 0}
+        rigidbodyVal: {fileID: 0}
+      spriteData:
+        spriteRef: {fileID: 0}
+        spriteVal: {fileID: 0}
+      stringData:
+        stringRef: {fileID: 0}
+        stringVal: 2
+      textureData:
+        textureRef: {fileID: 0}
+        textureVal: {fileID: 0}
+      transformData:
+        transformRef: {fileID: 0}
+        transformVal: {fileID: 0}
+      vector2Data:
+        vector2Ref: {fileID: 0}
+        vector2Val: {x: 0, y: 0}
+      vector3Data:
+        vector3Ref: {fileID: 0}
+        vector3Val: {x: 0, y: 0, z: 0}
+      vector4Data:
+        vector4Ref: {fileID: 0}
+        vector4Val: {x: 0, y: 0, z: 0, w: 0}
+      audioClipData:
+        audioClipRef: {fileID: 0}
+        audioClipVal: {fileID: 0}
+      audioMixerGroupData:
+        audioMixerGroupRef: {fileID: 0}
+        audioMixerGroupVal: {fileID: 0}
+      audioMixerSnapshotData:
+        audioMixerSnapshotRef: {fileID: 0}
+        audioMixerSnapshotVal: {fileID: 0}
+      audioMixerData:
+        audioMixerRef: {fileID: 0}
+        audioMixerVal: {fileID: 0}
+      characterData:
+        characterRef: {fileID: 0}
+        characterVal: {fileID: 0}
+  setOperator: 0
+  variable: {fileID: 0}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1932824141
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4580f28dd8581476b810b38eea2f1316, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.StringVariable
+  scope: 0
+  key: "\u6587\u5B57\u6578\u5B573"
+  value: 
+--- !u!114 &1932824142
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 224
+  indentLevel: 1
+  storyText: "\u639B\u9418\u65C1\u908A\u96B1\u96B1\u6709\u500B\u6578\u5B570"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1932824143
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.SetVariable
+  itemId: 223
+  indentLevel: 1
+  anyVar:
+    variable: {fileID: 1932823966}
+    data:
+      animatorData:
+        animatorRef: {fileID: 0}
+        animatorVal: {fileID: 0}
+      audioSourceData:
+        audioSourceRef: {fileID: 0}
+        audioSourceVal: {fileID: 0}
+      booleanData:
+        booleanRef: {fileID: 0}
+        booleanVal: 0
+      collectionData:
+        collectionRef: {fileID: 0}
+        collectionVal: {fileID: 0}
+      collider2DData:
+        collider2DRef: {fileID: 0}
+        collider2DVal: {fileID: 0}
+      colliderData:
+        colliderRef: {fileID: 0}
+        colliderVal: {fileID: 0}
+      colorData:
+        colorRef: {fileID: 0}
+        colorVal: {r: 0, g: 0, b: 0, a: 0}
+      floatData:
+        floatRef: {fileID: 0}
+        floatVal: 0
+      gameObjectData:
+        gameObjectRef: {fileID: 0}
+        gameObjectVal: {fileID: 0}
+      integerData:
+        integerRef: {fileID: 0}
+        integerVal: 0
+      materialData:
+        materialRef: {fileID: 0}
+        materialVal: {fileID: 0}
+      matrix4x4Data:
+        matrix4x4Ref: {fileID: 0}
+        matrix4x4Val:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0
+          e23: 0
+          e30: 0
+          e31: 0
+          e32: 0
+          e33: 0
+      objectData:
+        objectRef: {fileID: 0}
+        objectVal: {fileID: 0}
+      quaternionData:
+        quaternionRef: {fileID: 0}
+        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
+      rigidbody2DData:
+        rigidbody2DRef: {fileID: 0}
+        rigidbody2DVal: {fileID: 0}
+      rigidbodyData:
+        rigidbodyRef: {fileID: 0}
+        rigidbodyVal: {fileID: 0}
+      spriteData:
+        spriteRef: {fileID: 0}
+        spriteVal: {fileID: 0}
+      stringData:
+        stringRef: {fileID: 0}
+        stringVal: 
+      textureData:
+        textureRef: {fileID: 0}
+        textureVal: {fileID: 0}
+      transformData:
+        transformRef: {fileID: 0}
+        transformVal: {fileID: 0}
+      vector2Data:
+        vector2Ref: {fileID: 0}
+        vector2Val: {x: 0, y: 0}
+      vector3Data:
+        vector3Ref: {fileID: 0}
+        vector3Val: {x: 0, y: 0, z: 0}
+      vector4Data:
+        vector4Ref: {fileID: 0}
+        vector4Val: {x: 0, y: 0, z: 0, w: 0}
+      audioClipData:
+        audioClipRef: {fileID: 0}
+        audioClipVal: {fileID: 0}
+      audioMixerGroupData:
+        audioMixerGroupRef: {fileID: 0}
+        audioMixerGroupVal: {fileID: 0}
+      audioMixerSnapshotData:
+        audioMixerSnapshotRef: {fileID: 0}
+        audioMixerSnapshotVal: {fileID: 0}
+      audioMixerData:
+        audioMixerRef: {fileID: 0}
+        audioMixerVal: {fileID: 0}
+      characterData:
+        characterRef: {fileID: 0}
+        characterVal: {fileID: 0}
+  setOperator: 1
+  variable: {fileID: 0}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1932824144
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.BooleanVariable
+  scope: 0
+  key: "\u6642\u9418\u89F8\u767C"
+  value: 0
+--- !u!114 &1932824145
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932823872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.If
+  itemId: 222
+  indentLevel: 0
+  anyOrAllConditions: 0
+  conditions:
+  - compareOperator: 0
+    anyVar:
+      variable: {fileID: 1932824144}
+      data:
+        animatorData:
+          animatorRef: {fileID: 0}
+          animatorVal: {fileID: 0}
+        audioSourceData:
+          audioSourceRef: {fileID: 0}
+          audioSourceVal: {fileID: 0}
+        booleanData:
+          booleanRef: {fileID: 0}
+          booleanVal: 1
+        collectionData:
+          collectionRef: {fileID: 0}
+          collectionVal: {fileID: 0}
+        collider2DData:
+          collider2DRef: {fileID: 0}
+          collider2DVal: {fileID: 0}
+        colliderData:
+          colliderRef: {fileID: 0}
+          colliderVal: {fileID: 0}
+        colorData:
+          colorRef: {fileID: 0}
+          colorVal: {r: 0, g: 0, b: 0, a: 0}
+        floatData:
+          floatRef: {fileID: 0}
+          floatVal: 0
+        gameObjectData:
+          gameObjectRef: {fileID: 0}
+          gameObjectVal: {fileID: 0}
+        integerData:
+          integerRef: {fileID: 0}
+          integerVal: 0
+        materialData:
+          materialRef: {fileID: 0}
+          materialVal: {fileID: 0}
+        matrix4x4Data:
+          matrix4x4Ref: {fileID: 0}
+          matrix4x4Val:
+            e00: 0
+            e01: 0
+            e02: 0
+            e03: 0
+            e10: 0
+            e11: 0
+            e12: 0
+            e13: 0
+            e20: 0
+            e21: 0
+            e22: 0
+            e23: 0
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 0
+        objectData:
+          objectRef: {fileID: 0}
+          objectVal: {fileID: 0}
+        quaternionData:
+          quaternionRef: {fileID: 0}
+          quaternionVal: {x: 0, y: 0, z: 0, w: 0}
+        rigidbody2DData:
+          rigidbody2DRef: {fileID: 0}
+          rigidbody2DVal: {fileID: 0}
+        rigidbodyData:
+          rigidbodyRef: {fileID: 0}
+          rigidbodyVal: {fileID: 0}
+        spriteData:
+          spriteRef: {fileID: 0}
+          spriteVal: {fileID: 0}
+        stringData:
+          stringRef: {fileID: 0}
+          stringVal: 
+        textureData:
+          textureRef: {fileID: 0}
+          textureVal: {fileID: 0}
+        transformData:
+          transformRef: {fileID: 0}
+          transformVal: {fileID: 0}
+        vector2Data:
+          vector2Ref: {fileID: 0}
+          vector2Val: {x: 0, y: 0}
+        vector3Data:
+          vector3Ref: {fileID: 0}
+          vector3Val: {x: 0, y: 0, z: 0}
+        vector4Data:
+          vector4Ref: {fileID: 0}
+          vector4Val: {x: 0, y: 0, z: 0, w: 0}
+        audioClipData:
+          audioClipRef: {fileID: 0}
+          audioClipVal: {fileID: 0}
+        audioMixerGroupData:
+          audioMixerGroupRef: {fileID: 0}
+          audioMixerGroupVal: {fileID: 0}
+        audioMixerSnapshotData:
+          audioMixerSnapshotRef: {fileID: 0}
+          audioMixerSnapshotVal: {fileID: 0}
+        audioMixerData:
+          audioMixerRef: {fileID: 0}
+          audioMixerVal: {fileID: 0}
+        characterData:
+          characterRef: {fileID: 0}
+          characterVal: {fileID: 0}
+  compareOperator: 0
+  anyVar:
+    variable: {fileID: 0}
+    data:
+      animatorData:
+        animatorRef: {fileID: 0}
+        animatorVal: {fileID: 0}
+      audioSourceData:
+        audioSourceRef: {fileID: 0}
+        audioSourceVal: {fileID: 0}
+      booleanData:
+        booleanRef: {fileID: 0}
+        booleanVal: 0
+      collectionData:
+        collectionRef: {fileID: 0}
+        collectionVal: {fileID: 0}
+      collider2DData:
+        collider2DRef: {fileID: 0}
+        collider2DVal: {fileID: 0}
+      colliderData:
+        colliderRef: {fileID: 0}
+        colliderVal: {fileID: 0}
+      colorData:
+        colorRef: {fileID: 0}
+        colorVal: {r: 0, g: 0, b: 0, a: 0}
+      floatData:
+        floatRef: {fileID: 0}
+        floatVal: 0
+      gameObjectData:
+        gameObjectRef: {fileID: 0}
+        gameObjectVal: {fileID: 0}
+      integerData:
+        integerRef: {fileID: 0}
+        integerVal: 0
+      materialData:
+        materialRef: {fileID: 0}
+        materialVal: {fileID: 0}
+      matrix4x4Data:
+        matrix4x4Ref: {fileID: 0}
+        matrix4x4Val:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0
+          e23: 0
+          e30: 0
+          e31: 0
+          e32: 0
+          e33: 0
+      objectData:
+        objectRef: {fileID: 0}
+        objectVal: {fileID: 0}
+      quaternionData:
+        quaternionRef: {fileID: 0}
+        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
+      rigidbody2DData:
+        rigidbody2DRef: {fileID: 0}
+        rigidbody2DVal: {fileID: 0}
+      rigidbodyData:
+        rigidbodyRef: {fileID: 0}
+        rigidbodyVal: {fileID: 0}
+      spriteData:
+        spriteRef: {fileID: 0}
+        spriteVal: {fileID: 0}
+      stringData:
+        stringRef: {fileID: 0}
+        stringVal: 
+      textureData:
+        textureRef: {fileID: 0}
+        textureVal: {fileID: 0}
+      transformData:
+        transformRef: {fileID: 0}
+        transformVal: {fileID: 0}
+      vector2Data:
+        vector2Ref: {fileID: 0}
+        vector2Val: {x: 0, y: 0}
+      vector3Data:
+        vector3Ref: {fileID: 0}
+        vector3Val: {x: 0, y: 0, z: 0}
+      vector4Data:
+        vector4Ref: {fileID: 0}
+        vector4Val: {x: 0, y: 0, z: 0, w: 0}
+      audioClipData:
+        audioClipRef: {fileID: 0}
+        audioClipVal: {fileID: 0}
+      audioMixerGroupData:
+        audioMixerGroupRef: {fileID: 0}
+        audioMixerGroupVal: {fileID: 0}
+      audioMixerSnapshotData:
+        audioMixerSnapshotRef: {fileID: 0}
+        audioMixerSnapshotVal: {fileID: 0}
+      audioMixerData:
+        audioMixerRef: {fileID: 0}
+        audioMixerVal: {fileID: 0}
+      characterData:
+        characterRef: {fileID: 0}
+        characterVal: {fileID: 0}
+  variable: {fileID: 0}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
 --- !u!1 &1943359945
 GameObject:
   m_ObjectHideFlags: 0
@@ -21795,8 +22474,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 106, y: -69.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 297.14844, y: -238.03381}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2021732637
 MonoBehaviour:
@@ -22333,8 +23012,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: -142.00003}
-  m_SizeDelta: {x: 80, y: 35}
+  m_AnchoredPosition: {x: 31.8992, y: -421.9465}
+  m_SizeDelta: {x: 189.4637, y: 88.1773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2103202969
 MonoBehaviour:

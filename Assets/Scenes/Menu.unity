@@ -570,6 +570,8 @@ GameObject:
   - component: {fileID: 982745495}
   - component: {fileID: 982745496}
   - component: {fileID: 982745498}
+  - component: {fileID: 982745500}
+  - component: {fileID: 982745499}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -601,10 +603,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 982745486}
-  selectedCommands:
-  - {fileID: 982745496}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 982745436}
   description: 
@@ -677,8 +677,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Block
   nodeRect:
     serializedVersion: 2
-    x: -25.614494
-    y: -4.1638107
+    x: -27.263985
+    y: -2.5143201
     width: 81.656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -767,7 +767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 63
   indentLevel: 0
-  storyText: "\u6211\u600E\u9EBC?"
+  storyText: "\u4E3B\u89D2\u524D\u4E00\u5929\u7684\u5831\u544A\u88AB\u4E3B\u7BA1\u6279\u7684\u4E00\u7121\u662F\u8655{wc}\u4E0B\u73ED\u559D\u9189\u9152\u5F8C\u770B\u898B\u9580\u5F8C\u7684\u91D1\u5B50\u8DDF\u8CA1\u5BF6\uFF0C\u6416\u6416\u6643\u6643\u7684\u8D70\u4E86\u9032\u53BB"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -811,7 +811,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -25.688736
-    y: -75.63805
+    y: -74.8133
     width: 74.007996
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -822,6 +822,7 @@ MonoBehaviour:
   eventHandler: {fileID: 982745492}
   commandList:
   - {fileID: 982745491}
+  - {fileID: 982745500}
   - {fileID: 982745495}
   - {fileID: 982745494}
   suppressAllAutoSelections: 0
@@ -879,10 +880,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Fungus::Fungus.Say
   itemId: 66
   indentLevel: 0
-  storyText: "\u9019?\u9470\u5319\u5B54?{wc}\n\u6211\u624B\u4E0A\u600E\u9EBC\u6709\u9470\u5319?{wc}\n\u6253\u958B\u4F86\u770B\u4E00\u4E0B"
+  storyText: "\u9019?\u9470\u5319\u5B54?{wc}\n\u6211\u624B\u4E0A\u600E\u9EBC\u6709\u9470\u5319?\u55DD\u2026\u770B\u4F86\u6211\u559D\u591A\u4E86{wc}\n\u5C31\u4F86\u6253\u958B\u4F86\u770B\u4E00\u4E0B\u662F\u4EC0\u9EBC\u6771\u897F"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 982745499}
+  portrait: {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -912,6 +913,55 @@ MonoBehaviour:
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
   fadeTweenType: 4
+--- !u!114 &982745499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 982745419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Character
+  nameText: "\u73A9\u5BB6"
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
+  effectAudioSource: {fileID: 0}
+  voiceAudioSource: {fileID: 0}
+--- !u!114 &982745500
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 982745419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Fungus::Fungus.Say
+  itemId: 69
+  indentLevel: 0
+  storyText: "\u55EF\uFF1F\u4F60\u525B\u525B\u8AAA\u4EC0\u9EBC\u2026\u2026{wc}\n\u4F60\u8AAA\u8AB0\u4E00\u7121\u662F\u8655?{wc}\n\u4ED6\u624D\u4E00\u7121\u662F\u8655{wc}\n\u6574\u5929\u53EA\u6703#@$%^%^^*"
+  description: 
+  character: {fileID: 982745499}
+  portrait: {fileID: -410077490479736767, guid: 49f248be355e721438d668b2b8e1013c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1253299592
 GameObject:
   m_ObjectHideFlags: 0
